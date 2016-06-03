@@ -152,7 +152,7 @@ function opaque(){
         },
 		/*format:wNumb({'<span class="noUi-tooltip__label">'+'Victory Margins :'+'</span>'}),*/
 		 tooltips:wNumb({decimals:0,
-		 	prefix:"Victory Margin: "
+		 	prefix:'Victory Margin: ',
 		 }),
         //direction:'rtl',
         step:500,
