@@ -70,8 +70,8 @@ function loadall(){
                            //debugger;
 						   var mouse=d3.mouse(d3.select(this).node());
                            tooltip.classed('hidden', false)
-                                .attr('style', 'left:' + (mouse[0] + 150) +
-                                        'px; top:' + (mouse[1] +10) + 'px')
+                                .attr('style', 'left:' + (mouse[0] + 120) +
+                                        'px; top:' + (mouse[1] -10) + 'px')
 
                                 .html("<b>"+d.properties.AC_NAME+"</b>"+"\nMargin: "+margin_data[+(d.properties.AC_NO)-1].Margin+"\nWinner: "+win[+(d.properties.AC_NO)][2016]);
                            })
