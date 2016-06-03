@@ -253,7 +253,7 @@
 				//tool.attr("style","opacity:"+1);
 					tool.attr("style","opacity:"+1+";left:" + (mouse[0] +5+5*factor) +
 					       'px; top:' + (mouse[1] - 40) + 'px');
-					tool.append("span").style("font-size","18px").text(d.properties.AC_NAME+"\n");
+					tool.append("span").style("font-size","18px").style("font-weight","bold").text(d.properties.AC_NAME+"\n");
 					tool.append("span").style("font-size","16px").text(win[+(d.properties.AC_NO)][+year1]+"\n");
 					tool.append("span").style("font-size","14px").text("Margin: "+margin_data[+(d.properties.AC_NO)-1].Margin+"\n");
 					                   
