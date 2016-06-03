@@ -497,7 +497,7 @@ body {
 
 .slidebox{
   width: 550px;
-  
+  z-index:-10;
   padding: 10px;
   padding-top: 30px;
   float:left;
