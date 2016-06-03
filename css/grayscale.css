@@ -538,6 +538,7 @@ div.toolt1 {
         font-size: 15px;
         box-shadow: 2px 2px 2px rgba(169,169,169,0.5);
 		z-index:10;
+		text-align:left;
 }
 #value{
   padding: 10px;
