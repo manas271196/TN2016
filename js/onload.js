@@ -192,7 +192,7 @@
 			"Thoothukkudi":"தூத்துக்குடி",
 			"Perambur":"பெரம்பூர்",
 			"Kangayam":"காங்கேயம்",
-			"Yercaud (SC)":"ஏற்காடு",
+			"Yercaud (ST)":"ஏற்காடு",
 			"Thiruparankundram":"திருப்பரங்குன்றம்",
 			"Salem (West)":"சேலம் (மேற்கு)",
 			"Erode (East)":"ஈரோடு (கிழக்கு)",
