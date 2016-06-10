@@ -140,7 +140,7 @@
 			"AIFB":"#fdbb84",
 			"IND":"white",
 			"":"grey"
-	}
+	};
 
 	function display(year){
 		//debugger;
