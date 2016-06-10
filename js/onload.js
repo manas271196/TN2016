@@ -141,7 +141,7 @@
 			"IND":"white",
 			"":"grey"
 	};
-	var tamil:{
+	var tamil={
 			"Shozhinganallur":"சோழிங்கநல்லூர்",
 			"Maduravoyal":"மதுரவாயல்",
 			"Pallavaram":"பல்லாவரம்",
