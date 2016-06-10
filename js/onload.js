@@ -314,7 +314,7 @@
 			"Uthangarai":"ஊத்தங்கரை",
 			"Chidambaram":"சிதம்பரம்",
 			"Neyveli":"நெய்வேலி",
-			"Vilupuram":"விழுப்புரம்",
+			"Viluppuram":"விழுப்புரம்",
 			"Sholingur":"சோளிங்கர்",
 			"Mayiladuthurai":"மயிலாடுதுறை",
 			"Usilampatti":"உசிலம்பட்டி",
