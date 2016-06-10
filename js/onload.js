@@ -491,7 +491,7 @@
 					       'px; top:' + (mouse[1] - 40) + 'px');
 					tool.append("span").style("font-size","18px").style("font-weight","bold").style("text-align","left").text(tamil[d.properties.AC_NAME]+"\n");
 					tool.append("span").style("font-size","16px").text(win[+(d.properties.AC_NO)][+year1]+"\n");
-					tool.append("span").style("font-size","14px").text("Margin: "+margin_data[+(d.properties.AC_NO)-1].Margin+"\n");
+					tool.append("span").style("font-size","14px").text("வெற்றிப்பெற்றவரின் வாக்குகள்: "+margin_data[+(d.properties.AC_NO)-1].Margin+"\n");
 					                   
 					                	}
 			}
@@ -513,7 +513,7 @@
 					       'px; top:' + (mouse[1] - 80) + 'px');
 					tool.append("span").style("font-size","18px").style("font-weight","bold").style("text-align","left").text(tamil[d.properties.AC_NAME]+"\n");
 					tool.append("span").style("font-size","16px").text(win[+(d.properties.AC_NO)][+year1]+"\n");
-					tool.append("span").style("font-size","14px").text("Margin: "+margin_data[+(d.properties.AC_NO)-1].Margin+"\n");
+					tool.append("span").style("font-size","14px").text("வெற்றிப்பெற்றவரின் வாக்குகள்: "+margin_data[+(d.properties.AC_NO)-1].Margin+"\n");
 					                   
 					                	}
 				
